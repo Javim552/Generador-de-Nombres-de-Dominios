@@ -1,3 +1,10 @@
+eslint-disable 
+import "bootstrap";
+import "./style.css";
+
+import "./assets/img/rigo-baby.jpg";
+import "./assets/img/4geeks.ico";
+
 
 var pronoun = ["the", "our"];
 let adj = ["great", "big"];
@@ -25,16 +32,6 @@ for (let i = 0; i < pronoun.length; i++) {
 
   console.log(dominio);
 
-  
-
-
-
-  
-  /*for (let j = 0; j < pronoun.length; j++) {
-    dominio3 = pronoun[1] + adj[a] + noun[j] +".com";
-    console.log(dominio3);
-
-  }
  
 /*
 thegreatjogger.com
