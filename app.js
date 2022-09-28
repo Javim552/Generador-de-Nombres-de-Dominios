@@ -1,4 +1,4 @@
-eslint-disable 
+
 import "bootstrap";
 import "./style.css";
 
@@ -31,6 +31,7 @@ for (let i = 0; i < pronoun.length; i++) {
   }
 
   console.log(dominio);
+
 
  
 /*
